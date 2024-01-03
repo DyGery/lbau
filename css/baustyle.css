@@ -1,0 +1,49 @@
+header{background-image: url(../img/header.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 450px;
+        padding: 100px;
+        position: relative;
+    box-shadow: 0px 0px 15px 10px silver;}
+
+h1{font-size: 10rem;
+   font-variant: small-caps;
+   text-shadow: 10px 10px 15px black;}
+
+nav{color: black;
+    font-variant: small-caps;
+}
+
+.fix{position: fixed;
+     z-index: 100;
+    width: 100%;}
+
+main{padding-top: 20px;}
+
+main p{text-align: justify;}
+
+main h2,h3{font-variant: small-caps;}
+
+.keret{border: 2px solid silver;
+       border-radius: 20px;
+       padding: 10px;
+       box-shadow:10px 10px 15px black;
+    margin-bottom: 20px;}
+
+.park{margin: 0px 0px 0px 100px
+      }
+
+.card{margin: 15px 15px 15px 15px;
+      padding: 10px;}
+
+#contact li{list-style-type: none;}
+
+.ceglog{width:300px;}
+.ceglog p{text-shadow: 10px 10px 10px rgb(186, 195, 26);
+          font-size: 1.5rem;
+        color:black;
+        }
+.ceglog a{text-decoration: none;}
+
+.ceglog a.youtube{color: red;}
+.ceglog a.insta{color: rgba(255, 0, 174, 0.782);}
