@@ -1,0 +1,47 @@
+@media only screen and (max-width: 900px) {
+
+    .ceglog{display: none;}
+    #rolunk{margin-top: 20px;} 
+    main{font-size: 0.8rem;}
+
+   }
+
+
+@media only screen and (max-width: 1000px) {
+
+    #rolunk{margin-top: 60px;} 
+   
+   header{background-image: none;
+          display: none;
+       }
+
+   header h1{display: none;}
+   
+   main{font-size: 0.8rem;}
+
+   .card{margin: 2px;
+  width: 10rem;}
+  }
+
+
+  @media only screen and (max-width: 1200px) {
+
+    header{height: 300px;}
+    header h1{font-size: 6rem;}
+
+    main h1,h2,h3,h4{font-size: 1rem;}
+    .card{margin: 2px;
+        width: 10rem;
+        }
+    .park{margin-left: 50px;}  
+
+    .card ul{display: none;}    
+    .card h5{font-size: 0.8rem;}
+
+    button span{font-size: 0.6rem;}
+
+    .map{width: 20rem;
+        height: 15rem;}
+  }
+
+  
