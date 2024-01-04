@@ -29,7 +29,8 @@
     header{height: 300px;}
     header h1{font-size: 6rem;}
 
-    main h1,h2,h3,h4{font-size: 1rem;}
+    main h1,h2,h3{font-size: 1rem;}
+    main h4{font-size: 0.8rem;}
     .card{margin: 2px;
         width: 10rem;
         }
