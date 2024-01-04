@@ -38,6 +38,8 @@
     .card ul{display: none;}    
     .card h5{font-size: 0.8rem;}
 
+    .card img{width: 80%;}
+
     button span{font-size: 0.6rem;}
 
     .map{width: 20rem;
