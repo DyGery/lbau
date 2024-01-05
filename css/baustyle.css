@@ -56,10 +56,15 @@ main h2,h3,h4{font-variant: small-caps;
 
 .navbar-brand{display: block;
               display: none;
-              text-shadow: 5px 5px 5px rgb(83, 179, 227);
-              color: rgb(38, 18, 172);
+              text-shadow: 5px 5px 5px rgb(216, 204, 32);
+              color: rgb(99, 99, 95);
               font-size: 2rem;
               font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
               font-weight: bold;}
 
+
+
 header.mobil{ display: none;}
+
+img.logo{width: 2rem;
+         margin-left: 30px;}
