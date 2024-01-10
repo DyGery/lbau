@@ -16,6 +16,7 @@
 @media only screen and (max-width: 1000px) {
 
     #rolunk{margin-top: 210px;} 
+    .keret{margin-top: 210px;}
     .ceglog{display: none;}
 
     .navbar-brand{display: block;
@@ -70,6 +71,8 @@
         height: 15rem;}
 
         
+          
+          
     
   }
 
