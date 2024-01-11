@@ -10,6 +10,8 @@
     nav{background-image: url(../img/header2.pn);
         background-position: center;
         background-size:cover;}  
+
+        
    }
 
 
@@ -42,6 +44,9 @@
         background-size:cover;
         position: fixed;
        z-index: 50;}
+
+       .final{width:80%;
+              }
   
   }
 
